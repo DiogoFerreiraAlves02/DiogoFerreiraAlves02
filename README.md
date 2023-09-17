@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Diogo Alves
 
-- 📚 Atualmente a estudar Engenharia Informática (ISTEC Porto)
+- 📚 Recém-Licenciado em Engenharia Informática
 - 💻 Apaixonado por programação
 
 <div align="center">
