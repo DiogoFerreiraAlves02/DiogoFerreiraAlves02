@@ -42,7 +42,7 @@
 
 <div align="center"> 
 <a href="https://www.linkedin.com/in/diogoalves2002/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div><br><br>
+ </div><br>
  
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Diogo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -52,7 +52,7 @@
   <img align="center" alt="Diogo-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Diogo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Diogo-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
-  </div>
+  </div><br>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
