@@ -42,7 +42,7 @@
 
 <div align="center"> 
 <a href="https://www.linkedin.com/in/diogoalves2002/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+ </div><br><br>
  
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Diogo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
