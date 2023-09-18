@@ -37,7 +37,7 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DiogoFerreiraAlves02&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  [![trophy](https://github-profile-trophy.vercel.app/?username=DiogoFerreiraAlves02)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
  
