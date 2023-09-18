@@ -33,12 +33,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A9A9A9&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Diogo+Alves;I'm+21+years+old;I'm+from+Portugal;Computer+Engineer;Welcome+to+my+github!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DiogoFerreiraAlves02&bg_color=171717&color=d6d6d6&line=bfbabf&point=726e6e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DiogoFerreiraAlves02&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Diogo Alves github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoFerreiraAlves02&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DiogoFerreiraAlves02&bg_color=171717&color=d6d6d6&line=bfbabf&point=726e6e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 
 <div align="center"> 
