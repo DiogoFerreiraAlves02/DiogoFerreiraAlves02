@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/DiogoFerreiraAlves02">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DiogoFerreiraAlves02&show_icons=true&theme=dark&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoFerreiraAlves02&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DiogoFerreiraAlves02&show_icons=true&theme=dark&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DiogoFerreiraAlves02&layout=compact&langs_count=7&theme=dark"/>
 </div><br>
 
 [![Ashutosh's github activity graph](https://fabianocouto-activity-graph.vercel.app/graph/?username=DiogoFerreiraAlves02&bg_color=171717&color=d6d6d6&line=bfbabf&point=726e6e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
